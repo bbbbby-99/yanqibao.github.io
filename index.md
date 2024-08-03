@@ -1,4 +1,5 @@
 ---
-page: about.md
+layout: home
+title: Welcome
 ---
 
