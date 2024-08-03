@@ -1,6 +1,6 @@
 
 
-Yanqi Bao is currently a PhD student of the Department of Computer Science and Technology in [Nanjing University](http://www.nju.edu.cn/) and a member of [R&L Group](https://cs.nju.edu.cn/rl/index.htm), led by professor [Yang Gao](https://cs.nju.edu.cn/gaoyang/index.htm) and [Jing Huo](https://cs.nju.edu.cn/huojing/index.htm). Yanqi Bao received his Bachelor degree in June 2019 from [North University of China](http://www.nuc.edu.cn/) and Master degree in June 2021 from [Northeastern University].(http://www.neu.edu.cn/).
+Yanqi Bao is currently a PhD student of the Department of Computer Science and Technology in [Nanjing University](http://www.nju.edu.cn/) and a member of [R&L Group](https://cs.nju.edu.cn/rl/index.htm), led by professor [Yang Gao](https://cs.nju.edu.cn/gaoyang/index.htm) and [Jing Huo](https://cs.nju.edu.cn/huojing/index.htm). Yanqi Bao received his Bachelor degree in June 2019 from [North University of China](http://www.nuc.edu.cn/) and Master degree in June 2021 from [Northeastern University](http://www.neu.edu.cn/).
 
 My research interest includes computer vision and computer graphics. Particularly in **Few-Shot Semantic Segmentation**, **Multimodal Perception** **3D Gaussian Splatting** and **Neural Radiance Fields** 
 
