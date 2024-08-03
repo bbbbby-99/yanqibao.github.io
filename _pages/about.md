@@ -48,7 +48,7 @@ _In: arXiv:2407.17418._
 [Zero-Shot Video Editing through Adaptive Sliding Score Distillation](https://arxiv.org/pdf/2406.04888).   
 _In: arXiv:2406.04888._  
 [**Project**](https://nips24videoedit.github.io/zeroshot_videoedit/).
-- Lianghan Zhu, **Yanqi Bao^***, Jing Huo, Jing Wu, Yu-Kun Lai, Wenbin Li, Yang Gao.  
+- Lianghan Zhu, **Yanqi Bao***, Jing Huo, Jing Wu, Yu-Kun Lai, Wenbin Li, Yang Gao.  
 [Zero-Shot Video Editing through Adaptive Sliding Score Distillation](https://arxiv.org/pdf/2406.04888).   
 _In: arXiv:2406.04888._  
 [**Project**](https://nips24videoedit.github.io/zeroshot_videoedit/).
