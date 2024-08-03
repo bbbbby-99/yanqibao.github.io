@@ -39,12 +39,11 @@ My research interest includes computer vision and computer graphics. Particularl
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities](https://arxiv.org/pdf/2407.17418) [**Project**](https://github.com/qqqqqqy0227/awesome-3DGS)
 
 **Yanqi Bao**, Tianyu Ding, Jing Huo, Yaoli Liu, Yuxin Li, Wenbin Li, Yang Gao, Jiebo Luo
+[3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities](https://arxiv.org/pdf/2407.17418) [**Project**](https://github.com/qqqqqqy0227/awesome-3DGS)
+In: arXiv:2407.17418
+
 
 
 
