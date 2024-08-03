@@ -24,8 +24,18 @@ My research interest includes computer vision and computer graphics. Particularl
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 [**3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**](https://arxiv.org/pdf/2407.17418) is released. [**Project**](https://github.com/qqqqqqy0227/awesome-3DGS)
+- *2024.05*: &nbsp;🎉🎉 One paper on [**Zero-Shot Video Editing**](https://arxiv.org/pdf/2406.04888) is released.
+- *2024.04*: &nbsp;🎉🎉 One paper on [**Few-Shot Semantic Segmentation**](https://ieeexplore.ieee.org/abstract/document/9440451/) selected as an ESI Highly Cited Paper.
+- *2024.04*: &nbsp;🎉🎉 One paper on [**Multimodal Perception**](https://ieeexplore.ieee.org/abstract/document/9493207/) selected as an ESI Highly Cited Paper.
+- *2024.01*: &nbsp;🎉🎉 One paper on [**Neural Radiance Fields (NeRF)**](https://openreview.net/forum?id=aHmNpLlUlb) is accepted to [ICLR 2024](https://iclr.cc/Conferences/2024).
+- *2023.07*: &nbsp;🎉🎉 One paper on [**Neural Radiance Fields (NeRF)**](https://dl.acm.org/doi/abs/10.1145/3581783.3613769) is accepted to [ACM MM 2023](https://dl.acm.org/doi/proceedings/10.1145/3581783).
+- *2023.05*: &nbsp;🎉🎉 One paper on [**Few-Shot Semantic Segmentation**](https://ieeexplore.ieee.org/abstract/document/10015881/) is accepted to [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/document/9031597).
+- *2023.04*: &nbsp;🎉🎉 One paper on [**Multimodal Perception**](https://ieeexplore.ieee.org/abstract/document/9931143/) is accepted to [IEEE/ASME Transactions on Mechatronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516).
+- *2022.08*: &nbsp;🎉🎉 One paper on [**Few-Shot Semantic Segmentation**](https://arxiv.org/pdf/2301.03194) is accepted to [BMVC 2022 Oral](https://bmvc2022.org/).
+- *2022.03*: &nbsp;🎉🎉 One paper on [**Few-Shot Semantic Segmentation**](http://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Dynamic_Prototype_Convolution_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf) is accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
+- *2021.08*: &nbsp;🎉🎉 One paper on [**Multimodal Perception**](https://ieeexplore.ieee.org/abstract/document/9493207/) is accepted to [IEEE Transactions on Circuits and Systems for Video Technology](https://xplorestaging.ieee.org/xpl/mostRecentIssue.jsp?punumber=76).
+- *2021.05*: &nbsp;🎉🎉 One paper on [**Few-Shot Semantic Segmentation**](https://ieeexplore.ieee.org/abstract/document/9440451/) is accepted to [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/document/9031597).
 
 # 📝 Publications 
 
