@@ -50,7 +50,7 @@ _In: arXiv:2407.17418._
 _In: arXiv:2406.04888._  
 [**[Project]**](https://nips24videoedit.github.io/zeroshot_videoedit/).
 
-- **Yanqi Bao**, Tianyu Ding, Jing Huo, Wenbin Li, Yuxin Li, Yang Gao 
+- **Yanqi Bao**, Tianyu Ding, Jing Huo, Wenbin Li, Yuxin Li, Yang Gao  
 [InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules](https://openreview.net/forum?id=aHmNpLlUlb).   
 _In: ICLR 2024._  
 [**[Code]**](https://github.com/bbbbby-99/InsertNeRF/).
