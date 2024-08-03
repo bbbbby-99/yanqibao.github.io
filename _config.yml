@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yanqi Bao"
-description              : "Yanqi Bao's Homepage"
-repository               : "Yanqi-Bao.github.io"
+title                    : "YanqiBao"
+description              : "YanqiBao's Homepage"
+repository               : "YanqiBao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
