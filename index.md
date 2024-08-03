@@ -1,4 +1,4 @@
 ---
-layout: frontpage
+pages: about.md
 ---
 
