@@ -1,4 +1,4 @@
 ---
-pages: about.md
+page: about.md
 ---
 
