@@ -42,8 +42,16 @@ My research interest includes computer vision and computer graphics. Particularl
 
 - **Yanqi Bao**, Tianyu Ding, Jing Huo, Yaoli Liu, Yuxin Li, Wenbin Li, Yang Gao, Jiebo Luo.  
 [3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities](https://arxiv.org/pdf/2407.17418).   
-_In: arXiv:2407.17418._
+_In: arXiv:2407.17418._  
 [**Project**](https://github.com/qqqqqqy0227/awesome-3DGS).
+- Lianghan Zhu, **Yanqi Bao**, Jing Huo, Jing Wu, Yu-Kun Lai, Wenbin Li, Yang Gao.  
+[Zero-Shot Video Editing through Adaptive Sliding Score Distillation](https://arxiv.org/pdf/2406.04888).   
+_In: arXiv:2406.04888._  
+[**Project**](https://nips24videoedit.github.io/zeroshot_videoedit/).
+- Lianghan Zhu, **Yanqi Bao^***, Jing Huo, Jing Wu, Yu-Kun Lai, Wenbin Li, Yang Gao.  
+[Zero-Shot Video Editing through Adaptive Sliding Score Distillation](https://arxiv.org/pdf/2406.04888).   
+_In: arXiv:2406.04888._  
+[**Project**](https://nips24videoedit.github.io/zeroshot_videoedit/).
 
 
 
