@@ -24,6 +24,7 @@ My research interest includes computer vision and computer graphics. Particularl
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 I was invited to become reviewers in ICLR 2025, AISTATS 2025, ICASSP 2025, WACV 2025.
 - *2024.07*: &nbsp;🎉🎉 [**3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**](https://arxiv.org/pdf/2407.17418) is released. [**Project**](https://github.com/qqqqqqy0227/awesome-3DGS)
 - *2024.05*: &nbsp;🎉🎉 One paper on [**Zero-Shot Video Editing**](https://arxiv.org/pdf/2406.04888) is released.
 - *2024.04*: &nbsp;🎉🎉 One paper on [**Few-Shot Semantic Segmentation**](https://ieeexplore.ieee.org/abstract/document/9440451/) selected as an ESI Highly Cited Paper.
