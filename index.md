@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yanqi Bao is currently a PhD student of the Department of Computer Science and Technology in [Nanjing University](http://www.nju.edu.cn/) and a member of [R&L Group](https://cs.nju.edu.cn/rl/index.htm), led by professor [Yang Gao](https://cs.nju.edu.cn/gaoyang/index.htm) and [Jing Huo](https://cs.nju.edu.cn/huojing/index.htm). Yanqi Bao received his Bachelor degree in June 2019 from [North University of China](http://www.nuc.edu.cn/) and Master degree in June 2021 from [Northeastern University](http://www.neu.edu.cn/).
-
+Yanqi Bao is currently a PhD student of the Department of Computer Science and Technology in [Nanjing University](http://www.nju.edu.cn/) and a member of [R&L Group](https://cs.nju.edu.cn/rl/index.htm), led by professor [Yang Gao](https://cs.nju.edu.cn/gaoyang/index.htm) and [Jing Huo](https://cs.nju.edu.cn/huojing/index.htm). Yanqi Bao received his Bachelor degree in June 2019 from [North University of China](http://www.nuc.edu.cn/) and Master degree in June 2021 from [Northeastern University](http://www.neu.edu.cn/). Beginning September 2024, I will be engaging in a one-year academic visiting fellowship at City University of Hong Kong supervised by Professor [Jing Liao](https://scholars.cityu.edu.hk/en/persons/jing-liao(45757c38-f737-420d-8a7f-73b58d30c1fd).html).
+ 
 My research interest includes computer vision and computer graphics. Particularly in **Few-Shot Semantic Segmentation**, **Multimodal Perception** **3D Gaussian Splatting** and **Neural Radiance Fields** 
 
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 [**Distractor-free Generalizable 3D Gaussian Splatting**](https://arxiv.org/pdf/2411.17605) is released. [**Project**](https://github.com/bbbbby-99/DGGS)
+- *2024.09*: &nbsp;🎉🎉 I have commenced a one-year visiting research position at City University of Hong Kong.
 - *2024.09*: &nbsp;🎉🎉 I was invited to become reviewers in ICLR 2025, AISTATS 2025, ICASSP 2025, WACV 2025.
 - *2024.07*: &nbsp;🎉🎉 [**3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**](https://arxiv.org/pdf/2407.17418) is released. [**Project**](https://github.com/qqqqqqy0227/awesome-3DGS)
 - *2024.05*: &nbsp;🎉🎉 One paper on [**Zero-Shot Video Editing**](https://arxiv.org/pdf/2406.04888) is released.
@@ -40,6 +42,10 @@ My research interest includes computer vision and computer graphics. Particularl
 
 # 📝 Publications 
 
+- **Yanqi Bao**, Jing Liao, Jing Huo, Yang Gao.  
+[Distractor-free Generalizable 3D Gaussian Splatting](https://arxiv.org/pdf/2411.17605).   
+_In: arXiv:2411.17605._  
+[**[Project]**](https://github.com/bbbbby-99/DGGS).
 
 - **Yanqi Bao**, Tianyu Ding, Jing Huo, Yaoli Liu, Yuxin Li, Wenbin Li, Yang Gao, Jiebo Luo.  
 [3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities](https://arxiv.org/pdf/2407.17418).   
