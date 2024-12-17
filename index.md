@@ -107,7 +107,8 @@ _In: IEEE Transactions on Instrumentation and Measurement._
 - *2023.10* Scholarship in Nanjing University.
 
 # 🎈 Services
-- Reviewer for CVPR, NIPS, ICLR, etc.
+- Reviewer for CVPR, NIPS, ICLR, ICML etc.
+- Reviewer for TNNLS, TCYB, TOMM etc.
 
 # 💬 Invited Talks
 - *2023.07*, CGCKD 2024, Xiamen, China. 
