@@ -47,15 +47,14 @@ My research interest includes computer vision and computer graphics. Particularl
 
 # 📝 Publications 
 
-- **Yanqi Bao**, Tianyu Ding, Jing Huo, Wenbin Li, Yang Gao.  
-[FISN: FInding Spatial Neighborhoods for Generalizable Novel View Synthesis](https://arxiv.org/pdf/2411.17605).   
-_In: IEEE Transactions on Visualization and Computer Graphics._  
-
-
 - **Yanqi Bao**, Jing Liao, Jing Huo, Yang Gao.  
 [Distractor-free Generalizable 3D Gaussian Splatting](https://arxiv.org/pdf/2411.17605).   
 _In: ICLR 2026._  
 [**[Code]**](https://github.com/bbbbby-99/DGGS).
+
+- **Yanqi Bao**, Tianyu Ding, Jing Huo, Wenbin Li, Yang Gao.  
+[FISN: FInding Spatial Neighborhoods for Generalizable Novel View Synthesis](https://arxiv.org/pdf/2411.17605).   
+_In: IEEE Transactions on Visualization and Computer Graphics._  
 
 - **Yanqi Bao**, Tianyu Ding, Jing Huo, Yaoli Liu, Yuxin Li, Wenbin Li, Yang Gao, Jiebo Luo.  
 [3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities](https://arxiv.org/pdf/2407.17418).   
