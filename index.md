@@ -24,6 +24,11 @@ My research interest includes computer vision and computer graphics. Particularl
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 [**DGGS**](https://arxiv.org/pdf/2411.17605) is accepted to [ICLR 2026](https://iclr.cc/).
+- *2025.12*: &nbsp;🎉🎉 [**FISN: FInding Spatial Neighborhoods for Generalizable Novel View Synthesis**](https://arxiv.org/pdf/2411.17605) is accepted to [IEEE Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945).
+- *2025.09*: &nbsp;🎉🎉 I received the NeurIPS 2025 Top Reviewer award.
+- *2025.08*: &nbsp;🎉🎉 [**3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**](https://arxiv.org/pdf/2407.17418) is selected as popular paper in [Transactions on Circuits and Systems for Video Technology].
+- *2025.02*: &nbsp;🎉🎉 [**3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**](https://arxiv.org/pdf/2407.17418) is accepted to [Transactions on Circuits and Systems for Video Technology].
 - *2024.11*: &nbsp;🎉🎉 [**Distractor-free Generalizable 3D Gaussian Splatting**](https://arxiv.org/pdf/2411.17605) is released. [**Project**](https://github.com/bbbbby-99/DGGS)
 - *2024.09*: &nbsp;🎉🎉 I have commenced a one-year visiting research position at City University of Hong Kong.
 - *2024.09*: &nbsp;🎉🎉 I was invited to become reviewers in ICLR 2025, AISTATS 2025, ICASSP 2025, WACV 2025.
@@ -42,15 +47,20 @@ My research interest includes computer vision and computer graphics. Particularl
 
 # 📝 Publications 
 
+- **Yanqi Bao**, Tianyu Ding, Jing Huo, Wenbin Li, Yang Gao.  
+[FISN: FInding Spatial Neighborhoods for Generalizable Novel View Synthesis](https://arxiv.org/pdf/2411.17605).   
+_In: IEEE Transactions on Visualization and Computer Graphics._  
+
+
 - **Yanqi Bao**, Jing Liao, Jing Huo, Yang Gao.  
 [Distractor-free Generalizable 3D Gaussian Splatting](https://arxiv.org/pdf/2411.17605).   
-_In: arXiv:2411.17605._  
-[**[Project]**](https://github.com/bbbbby-99/DGGS).
+_In: ICLR 2026._  
+[**[Code]**](https://github.com/bbbbby-99/DGGS).
 
 - **Yanqi Bao**, Tianyu Ding, Jing Huo, Yaoli Liu, Yuxin Li, Wenbin Li, Yang Gao, Jiebo Luo.  
 [3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities](https://arxiv.org/pdf/2407.17418).   
-_In: arXiv:2407.17418._  
-[**[Project]**](https://github.com/qqqqqqy0227/awesome-3DGS).
+_In: IEEE Transactions on Circuits and Systems for Video Technology._  
+[**[Code]**](https://github.com/qqqqqqy0227/awesome-3DGS).
 
 - Lianghan Zhu, **Yanqi Bao^***, Jing Huo, Jing Wu, Yu-Kun Lai, Wenbin Li, Yang Gao.  
 [Zero-Shot Video Editing through Adaptive Sliding Score Distillation](https://arxiv.org/pdf/2406.04888).   
@@ -107,8 +117,8 @@ _In: IEEE Transactions on Instrumentation and Measurement._
 - *2023.10* Scholarship in Nanjing University.
 
 # 🎈 Services
-- Reviewer for CVPR, NIPS, ICLR, ICML etc.
-- Reviewer for TNNLS, TCYB, TOMM etc.
+- Reviewer for CVPR, ICCV, NeurIPS, ICML, ICLR, ECCV, AISTATS, ICASSP, WACV etc.
+- Reviewer for IEEE TVCG, IEEE TIP, IEEE TNNLS, IEEE TCYB, ACM TOMM, ACM Computing Survey etc.
 
 # 💬 Invited Talks
 - *2023.07*, CGCKD 2024, Xiamen, China. 
