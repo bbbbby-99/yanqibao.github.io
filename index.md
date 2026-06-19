@@ -25,6 +25,7 @@ My research interest includes computer vision and computer graphics. Particularl
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 **IPRM** is accepted to [ECCV 2026](https://eccv.ecva.net/).
+- *2026.05*: &nbsp;🎉🎉 One paper on [**3DGS**](https://arxiv.org/pdf/2407.17418) selected as an ESI Highly Cited Paper.
 - *2026.01*: &nbsp;🎉🎉 [**DGGS**](https://arxiv.org/pdf/2411.17605) is accepted to [ICLR 2026](https://iclr.cc/).
 - *2025.12*: &nbsp;🎉🎉 [**FISN: FInding Spatial Neighborhoods for Generalizable Novel View Synthesis**](https://arxiv.org/pdf/2411.17605) is accepted to [IEEE Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945).
 - *2025.09*: &nbsp;🎉🎉 I received the NeurIPS 2025 Top Reviewer award.
