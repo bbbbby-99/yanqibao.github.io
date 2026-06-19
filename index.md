@@ -24,6 +24,7 @@ My research interest includes computer vision and computer graphics. Particularl
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 [**IPRM**] is accepted to [ECCV 2026](https://eccv.ecva.net/).
 - *2026.01*: &nbsp;🎉🎉 [**DGGS**](https://arxiv.org/pdf/2411.17605) is accepted to [ICLR 2026](https://iclr.cc/).
 - *2025.12*: &nbsp;🎉🎉 [**FISN: FInding Spatial Neighborhoods for Generalizable Novel View Synthesis**](https://arxiv.org/pdf/2411.17605) is accepted to [IEEE Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945).
 - *2025.09*: &nbsp;🎉🎉 I received the NeurIPS 2025 Top Reviewer award.
@@ -46,6 +47,11 @@ My research interest includes computer vision and computer graphics. Particularl
 - *2021.05*: &nbsp;🎉🎉 One paper on [**Few-Shot Semantic Segmentation**](https://ieeexplore.ieee.org/abstract/document/9440451/) is accepted to [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/document/9031597).
 
 # 📝 Publications 
+
+- **Yanqi Bao**, Jiaxiang Shang, Yang Gao, Yingchun Liu, Jing Huo, Jing Liao.  
+[Identity-Preserving Human Reconstruction from a Single Image via Explicit 3D Reasoning.](https://arxiv.org/pdf/2411.17605).   
+_In: ECCV 2026._  
+[**[Code]**](https://github.com/bbbbby-99/DGGS).
 
 - **Yanqi Bao**, Jing Liao, Jing Huo, Yang Gao.  
 [Distractor-free Generalizable 3D Gaussian Splatting](https://arxiv.org/pdf/2411.17605).   
