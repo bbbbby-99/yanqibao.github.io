@@ -176,11 +176,13 @@ Specifically, my recent research focuses on:
 
 ### Conference Reviewer
 
-- **Computer Vision and Machine Learning:** CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR.
+- **Computer Vision and Machine Learning:** CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI.
 - **Other Conferences:** AISTATS, ICASSP, WACV.
 
 ### Journal Reviewer
 
+
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (**Tpami**).
 - IEEE Transactions on Visualization and Computer Graphics (**TVCG**).
 - IEEE Transactions on Image Processing (**TIP**).
 - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**).
