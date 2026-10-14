@@ -1,14 +1,4 @@
 
----
-permalink: /
-title: "Yanqi Bao"
-excerpt: ""
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -123,11 +113,11 @@ Specifically, my recent research focuses on:
 
 ## 🔹 Few-Shot Semantic Segmentation
 
-- Jie Liu, **Yanqi Bao**\*, Wenzhe Yin, Haochen Wang, Yang Gao, Jan-Jakob Sonke, Efstratios Gavves.  
+- Jie Liu, **Yanqi Bao**†, Wenzhe Yin, Haochen Wang, Yang Gao, Jan-Jakob Sonke, Efstratios Gavves.  
 [Few-Shot Semantic Segmentation with Support-Induced Graph Convolutional Network](https://arxiv.org/pdf/2301.03194).  
 *In: British Machine Vision Conference (BMVC), 2022. Oral.*
 
-- Jie Liu, **Yanqi Bao**\*, Guo-Sen Xie, Huan Xiong, Jan-Jakob Sonke, Efstratios Gavves.  
+- Jie Liu, **Yanqi Bao**†, Guo-Sen Xie, Huan Xiong, Jan-Jakob Sonke, Efstratios Gavves.  
 [Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Dynamic_Prototype_Convolution_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.html).  
 *In: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.*
 
