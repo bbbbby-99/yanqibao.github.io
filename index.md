@@ -10,21 +10,23 @@
 
 # 👋 About Me
 
-I am currently a Ph.D. student in the Department of Computer Science and Technology at [Nanjing University](https://www.nju.edu.cn/), and a member of the [R&L Group](https://cs.nju.edu.cn/rl/index.htm), advised by Prof. [Yang Gao](https://cs.nju.edu.cn/gaoyang/index.htm) and Prof. [Jing Huo](https://cs.nju.edu.cn/huojing/index.htm).
+I am currently a Researcher at [Horizon Robotics](https://www.horizon.auto/), working closely with **Qian Zhang** on **Video Generation**, **World Models**, and **Agentic AI**.
 
-I received my Bachelor's degree from [North University of China](https://www.nuc.edu.cn/) in June 2019 and my Master's degree from [Northeastern University](https://www.neu.edu.cn/) in June 2021.
+I received my Ph.D. degree from the Department of Computer Science and Technology at [Nanjing University](https://www.nju.edu.cn/), where I was a member of the [R&L Group](https://cs.nju.edu.cn/rl/index.htm), advised by Prof. [Yang Gao](https://cs.nju.edu.cn/gaoyang/index.htm) and Prof. [Jing Huo](https://cs.nju.edu.cn/huojing/index.htm).
 
 From September 2024 to August 2025, I was a visiting researcher at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Jing Liao](https://scholars.cityu.edu.hk/).
 
-My research interests lie in **Computer Vision** and **Computer Graphics**, with a particular focus on **3D Vision and Reconstruction**, **Generative Models**, **Few-Shot Semantic Segmentation**, and **Multimodal Perception**.
+I received my Bachelor's degree from [North University of China](https://www.nuc.edu.cn/) in June 2019 and my Master's degree from [Northeastern University](https://www.neu.edu.cn/) in June 2022.
+
+My research interests lie in **Generative AI**, **Computer Vision**, and **Computer Graphics**, with a particular focus on **Video Generation**, **World Models**, and **Agentic AI**. My previous research also spans **3D Vision and Reconstruction**, **Physics-Aware 3D Modeling**, **Few-Shot Semantic Segmentation**, and **Multimodal Perception**.
 
 Specifically, my recent research focuses on:
 
+- **Video Generation:** Video Synthesis, Controllable Video Generation, Video Editing, and Spatiotemporal Modeling.
+- **World Models:** Generative World Modeling, Dynamics Prediction, Physical World Simulation, and Interactive Environment Modeling.
+- **Agentic AI:** Multimodal Reasoning, Planning, and Vision-Language-Action Models.
 - **3D Vision and Reconstruction:** 3D Gaussian Splatting (3DGS), Neural Radiance Fields (NeRF), Generalizable Novel View Synthesis, and Human Reconstruction.
 - **Physics-Aware 3D Reconstruction:** Physically Simulatable 3D Assets, Material-Controllable Reconstruction, and Physical Property Modeling.
-- **Generative Models:** Image and Video Generation and Editing.
-- **Few-Shot Semantic Segmentation:** Learning semantic representations from limited annotated data.
-- **Multimodal Perception:** Cross-modal feature fusion, RGB-T perception, and multimodal semantic understanding.
 
 
 # 🔥 News
